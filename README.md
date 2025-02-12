@@ -27,3 +27,7 @@ Explora conceitos de probabilidade e técnicas de amostragem, como distribuiçã
 #### 6. ``teste_de_hipoteses.ipynb``
 
 Apresenta métodos de teste de hipóteses, como testes paramétricos e não paramétricos, intervalos de confiança e p-valores. O foco está na tomada de decisão com base em evidências estatísticas.
+
+
+## Projeto Final
+**Desafio realizado com toda a squad:** [Projeto Final - Previsão de Bullying](https://github.com/adrielleClemente/Data_Analytics_womakers_code/tree/main/Projeto%20Final%20da%20Squad)
