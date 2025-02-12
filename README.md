@@ -6,24 +6,24 @@ Bootcamp com carga horária de 280 horas de estudos, no período de 01 de Julho 
 
 #### 1. ``correlacao_regressao.ipynb``
 
-Eexplora os conceitos de correlação e regressão, analisando relações entre variáveis e construindo modelos preditivos. São abordadas técnicas como regressão simples/multivariada.
+Explora os conceitos de correlação e regressão, analisando relações entre variáveis e construindo modelos preditivos. São abordadas técnicas como regressão simples/multivariada.
 
-3. ``exercicio_sql.ipynb``
+#### 2. ``exercicio_sql.ipynb``
 
 Contém exercícios práticos de SQL, incluindo consultas, filtragens, agregações e manipulação de dados em bancos relacionais. O objetivo é reforçar habilidades para extrair e transformar dados de forma eficiente.
 
-5. ``forbes.ipynb``
+#### 3. ``forbes.ipynb``
 
 Analisa dados do ranking da Forbes. Inclui visualizações, estatísticas descritivas e insights sobre os dados explorados.
 
-7. ``frequencias_medidas.ipynb``
+#### 4. ``frequencias_medidas.ipynb``
 
 Aborda medidas estatísticas como média, mediana, moda, variância e desvio padrão, além de tabelas de frequência. Esse notebook é útil para entender distribuições de dados e sua variabilidade.
 
-9. ``probabilidade_amostragem.ipynb``
+#### 5. ``probabilidade_amostragem.ipynb``
    
 Explora conceitos de probabilidade e técnicas de amostragem, como distribuição normal, teorema do limite central e diferentes tipos de amostras.
 
-11. ``teste_de_hipoteses.ipynb``
+#### 6. ``teste_de_hipoteses.ipynb``
 
 Apresenta métodos de teste de hipóteses, como testes paramétricos e não paramétricos, intervalos de confiança e p-valores. O foco está na tomada de decisão com base em evidências estatísticas.
