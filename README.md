@@ -4,7 +4,7 @@ Bootcamp com carga horária de 280 horas de estudos, no período de 01 de Julho 
 
 ### 📁 Portifólio
 
-1. ``correlacao_regressao.ipynb``
+#### 1. ``correlacao_regressao.ipynb``
 
 Eexplora os conceitos de correlação e regressão, analisando relações entre variáveis e construindo modelos preditivos. São abordadas técnicas como regressão simples/multivariada.
 
